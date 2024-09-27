@@ -1,4 +1,4 @@
-#BENCHMARK BUDDY: Aplikasi Website Rekomendasi Laptop dan Komputer
+# BENCHMARK BUDDY: Aplikasi Website Rekomendasi Laptop dan Komputer
 Dipersiapkan oleh:
 Aaron Barrichello Pattinama -1301223337
 Aydin Shidqi Athalla K - 1301223179
