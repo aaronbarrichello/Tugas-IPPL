@@ -1,0 +1,4 @@
+model\Device.class
+com\mycompany\benchmarkbuddy\resources\JakartaEE10Resource.class
+model\Spesification.class
+com\mycompany\benchmarkbuddy\JakartaRestConfiguration.class
