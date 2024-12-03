@@ -53,7 +53,7 @@ public class RegisterServlet extends HttpServlet {
                 String errorMessage = "User Available";
                 HttpSession regSession = request.getSession();
                 regSession.setAttribute("RegError", errorMessage);
-                response.sendRedirect("register.jsp");
+                response.sendRedirect("registration.jsp");
             }
             out.println("</body>");
             out.println("</html>");
