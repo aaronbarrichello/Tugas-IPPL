@@ -23,5 +23,6 @@ IMK:
 ![figma-logo-e1632519236382](https://github.com/user-attachments/assets/171ff12c-a548-4fcf-83a4-0eadbedebd06)
 
 Bahasa Pemrograman:
+![java-logo-vector](https://github.com/user-attachments/assets/27f384db-a3b4-4a79-a9e0-d662863260e1)
 
-![pngegg (1)](https://github.com/user-attachments/assets/a2d0a396-85da-4d0b-9b19-974e374a5cd5)
+
