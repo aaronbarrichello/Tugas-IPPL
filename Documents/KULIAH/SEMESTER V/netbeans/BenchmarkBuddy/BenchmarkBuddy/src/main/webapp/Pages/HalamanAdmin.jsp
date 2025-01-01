@@ -305,6 +305,22 @@
                 margin-bottom: 10px;
                 font-size: 16px;
             }
+            
+            button {
+                background-color: #ff6a00;
+                color: #fff;
+                border: none;
+                padding: 10px 20px;
+                font-size: 1rem;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.3s ease, transform 0.2s ease;
+            }
+
+            button:hover {
+                background-color: #e65a00;
+                transform: scale(1.05);
+            }
         </style>
 
     </head> 

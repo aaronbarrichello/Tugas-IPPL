@@ -263,7 +263,7 @@
 
 
         %>
-
+        
 
 
         <div class="container">
@@ -318,7 +318,7 @@
                     <button type="submit" class="compare-btn">
                         Compare Selected
                     </button>
-                    <p id="error-message" class="error-message" style="display: none;">Pilih minimal 2 atau 3 devices untuk membandingkan.</p>
+                    <p id="error-message" class="error-message" style="display: none;"><b>Pilih minimal 2 atau maksimal 3 devices untuk membandingkan.</b></p>
                     <%  if (request.getParameter("Query") != null) { //search device%>
                     <p>Menampilkan device dengan query: <%=request.getParameter("Query")%> </p>
                     <%} else if (request.getParameter("Filter") != null) {//filter device%>
